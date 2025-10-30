@@ -1,4 +1,4 @@
-# Code-Blooded The Price of Health: Predicting Medical Costs with Data
+# The Price of Health: Predicting Medical Costs with Data
 
 This project builds predictive models to estimate an individual’s annual medical insurance charges based on demographic and lifestyle factors (age, BMI, smoker status, number of children, etc.). The goal is to understand which factors drive healthcare costs and to evaluate the performance of various models — from simple linear regression to advanced tree-based methods — in predicting these charges.
 
